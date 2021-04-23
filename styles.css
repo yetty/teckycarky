@@ -1,0 +1,15 @@
+.level1 {
+  background: white;
+}
+.level2 {
+  background: rgb(255, 230, 230);
+}
+.level3 {
+  background: rgb(255, 210, 210);
+}
+.level4 {
+  background: rgb(255, 190, 190);
+}
+.level5 {
+  background: rgb(255, 170, 170);
+}
